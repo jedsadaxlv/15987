@@ -1,0 +1,21 @@
+{
+    "name": "maxim88-casino-malaysia",
+    "main": "./main/15987",
+    "version": "49.0.1",
+    "description": "x",
+    "keywords": [
+        "x casino",
+        "x",
+        "x online casino",
+        "x casino x"
+    ],
+    "activationCommands": {
+        "atom-workspace": "15987:toggle"
+    },
+    "repository": "https://github.com/jedsadaxlv/15987.git",
+    "license": "YED",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {}
+}
